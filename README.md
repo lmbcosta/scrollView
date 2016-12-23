@@ -1,2 +1,6 @@
 # scrollView
-A simple example how to implement a scroll view on a iOS project
+How to implement a scroll view on a iOS project
+
+An exemple how to use a scroll view with 3 logos always seeing the wedges of the previous and next logo
+
+
